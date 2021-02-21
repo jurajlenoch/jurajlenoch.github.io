@@ -1,0 +1,33 @@
+html {
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0px 20px 20px 20px;
+    background-color: whitesmoke;
+    border: 2px solid #537EFF;
+
+}
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 20px 0;
+    color: #0645FF;
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    color: #032380;
+    font-size: 22px;
+    line-height: 1;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
