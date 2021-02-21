@@ -13,7 +13,7 @@ body {
 
 }
 
-h1, h2, h3 {
+h1 {
     margin: 0;
     padding: 20px 0;
     color: #0645FF;
@@ -21,13 +21,43 @@ h1, h2, h3 {
     text-align: center;
 }
 
+h2 {
+    margin: 0;
+    padding: 20px 0;
+    color: #0645FF;
+    font-size: 45px;
+    text-align: center;
+}
+
+h3 {
+    margin: 0;
+    padding: 20px 0;
+    color: #0645FF;
+    font-size: 30px;
+}
+
 p, li {
     color: #032380;
     font-size: 22px;
-    line-height: 1;
+    line-height: 1.5;
+}
+
+a {
+    color: #537EFF;
+    font-size: 22px;
+    line-height: 1.5;
+    
 }
 
 img {
     width: 100%;
     display: block;
 }
+
+
+/* Color Theme Swatches in Hex */
+.royal-blue-mon-1-hex { color: #537EFF; }
+.royal-blue-mon-2-hex { color: #032380; }
+.royal-blue-mon-3-hex { color: #0645FF; }
+.royal-blue-mon-4-hex { color: #293F80; }
+.royal-blue-mon-5-hex { color: #0537CC; }
