@@ -36,7 +36,7 @@ h3 {
     font-size: 30px;
 }
 
-p, li {
+p, li, dt, dd {
     color: #032380;
     font-size: 22px;
     line-height: 1.5;
@@ -52,6 +52,13 @@ a {
 img {
     width: 100%;
     display: block;
+}
+
+blockquote {
+    color: #0645FF;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 0;
 }
 
 
